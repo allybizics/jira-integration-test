@@ -1,13 +1,13 @@
 # jira-integration-test
-TEST
 
 <!DOCTYPE html> 
 <html lang="en"> 
-  <head>     
+<head>     
     <meta charset="UTF-8">     
     <title>DCV - IT-Projektmanager 2024</title> 
-  </head> 
-  <body>     hello world 
-  </body> 
+</head> 
+<body>     
+    hello world 
+</body> 
 </html>
 
